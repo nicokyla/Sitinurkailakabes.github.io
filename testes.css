@@ -91,7 +91,7 @@ background-color: #343534;
     background: #f5f5f5;
     font-weight: bold;
     width: 30%;
-     background-color: #999; 
+    background-color: #999; 
     border: 1px solid #999;
 }
 
@@ -147,7 +147,7 @@ h3 {
     padding: 20px; 
     box-shadow: 0 10px 40px white; 
     margin: 20px auto; 
-    max-width: 800px;
+    max-width: 1500px;
     text-align: center; 
 }
 
@@ -282,7 +282,7 @@ h3 {
     box-shadow: 0 10px 20px white; 
     transition: transform 0.3s; 
     width: 100%;
-    max-width: 600px; 
+    max-width: 1021px; 
 }
 
 header {
